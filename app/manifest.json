@@ -11,6 +11,7 @@
 		"default_area": "navbar",
 		"default_popup": "index.html"
 	},
+	"background": { "page": "index.html" },
 	"web_accessible_resources": [
 		"vendor/*",
 		"js/*"
